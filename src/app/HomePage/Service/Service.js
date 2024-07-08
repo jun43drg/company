@@ -20,8 +20,8 @@ export default function Service() {
               NFT Development
             </h1>
             <p className="text-sm w-36">
-              Non Fungible Tokens are in Trend. We've been building them since
-              2016
+              Non Fungible Tokens are in Trend. We&apos;ve been building them
+              since 2016
             </p>
           </Link>
         </div>
