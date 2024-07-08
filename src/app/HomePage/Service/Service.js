@@ -7,7 +7,7 @@ export default function Service() {
         <h1>We provide clients with award-winning services</h1>
       </div>
       <div class="flex justify-between flex-nowrap mt-10 ml-24">
-        <div className="pr-52 	">
+        <div className="pr-52">
           <Link href="/nft">
             <Image
               src="/icon-nft.png"
@@ -61,7 +61,7 @@ export default function Service() {
             </p>
           </Link>
         </div>
-        <div className="pr-52">
+        <div>
           <Link href="/software">
             <Image
               src="/icon-sw.png"
