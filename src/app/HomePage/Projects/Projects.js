@@ -61,7 +61,7 @@ export default function Projects() {
         </div>
       </div>
       <div className="flex justify-center">
-        <div className="bg-[#242627] w-[1200px] h-[390px] py-[30px] px-[40px] rounded-[32px] mt-6 text-white ml-[50px]">
+        <div className="bg-[#242627] w-[1200px] h-[390px] py-[30px] px-[40px] rounded-[32px] mt-6 text-white">
           <div className="flex justify-between text-[15px] font-bold">
             <div>03.</div>
             <div>Showcase</div>
