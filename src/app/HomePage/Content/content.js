@@ -10,8 +10,11 @@ export default function Content() {
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="absolute inset-0 flex flex-col items-center justify-center text-white text-4xl font-bold ">
-          <h1 className="mb-4">Chữ của bạn ở đây</h1>
-          <p>Thêm nội dung khác nếu cần</p>
+          <h1 className="mb-4">Dịch vụ của chúng tôi</h1>
+          <p>
+            Cổng thanh toán TMĐT, Dịch vụ ngân hàng, Hệ thống, Logistic xuất
+            nhập khẩu
+          </p>
         </div>
       </div>
       <div className="flex flex-col items-center justify-center text-4xl font-bold ml-64 mr-64 mb-20">

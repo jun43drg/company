@@ -1,6 +1,6 @@
 export default function Business() {
   return (
-    <div className="flex  mt-20">
+    <div className="flex justify-center mt-20">
       <div className="w-[422px] h-[316px] mr-[180px] ml-20">
         <h1 className="text-4xl font-bold w-[300px]">
           Start your journey to better business
