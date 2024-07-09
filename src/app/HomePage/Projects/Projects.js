@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 export default function Projects() {
   return (
-    <div className="pt-10 ml-16">
+    <div className="pt-10 ">
       <h1 className="text-3xl pb-10 font-bold text-center">
         Apps we built been trending on the App Store
       </h1>
